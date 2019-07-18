@@ -9,6 +9,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">        
     </head>
     <body>
+		<h1 class="text-center">MALL AND SUPERMARKET</h1>
+		<h3 class="text-center">Terlengkap dan Termurah!</h3>
         <div class="container" style="margin-top: 30px;">
             <button class="tablink" onclick="openPage('Produk', this, 'grey')" id="defaultOpen">Produk</button>
             <button class="tablink" onclick="openPage('Merk', this, 'grey')">Merk</button>
